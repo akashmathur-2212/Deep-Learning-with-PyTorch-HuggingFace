@@ -1,0 +1,35 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments & UV artifacts
+.venv/
+.uv/
+
+# VS Code and IDEs
+.vscode/
+.idea/
+*.swp
+
+# Python environment files
+.env
+.env.*
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Log & debug files
+*.log
+
+# Practice
+Practice/*
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Experiment folders (if any)
+Practice/
+
