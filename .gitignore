@@ -23,10 +23,6 @@ Thumbs.db
 # Log & debug files
 *.log
 
-# Practice
-Practice/*
-
-
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
