@@ -1,4 +1,10 @@
-# PyTorch Playground
+# Deep Learning Playground with PyTorch & Hugging Face 
+
+This repository contains tutorials for :
+
+1. Coding LLMs from scratch using PyTorch
+2. Fine-tuning LLMs with Hugging Face, Unsloth, Axolotl, etc.
+3. LLM Inference
 
 **Setup with UV**
 
