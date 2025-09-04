@@ -2,9 +2,11 @@
 
 This repository contains tutorials for :
 
-1. [👉🏻](https://github.com/akashmathur-2212/PyTorch/tree/main/transformers_from_scratch) Coding LLMs from scratch using PyTorch
-2. [👉🏻](https://github.com/akashmathur-2212/PyTorch/tree/main/llm-finetuning) Fine-tuning LLMs with Hugging Face, Unsloth, Axolotl, etc. 
-3. LLM Inference
+| S.No. | Tutorials |
+|-------|--------|
+| 1. | [👉🏻](https://github.com/akashmathur-2212/PyTorch/tree/main/transformers_from_scratch) Coding LLMs from scratch using PyTorch |
+| 2. | [👉🏻](https://github.com/akashmathur-2212/PyTorch/tree/main/llm-finetuning) Fine-tuning LLMs with Hugging Face, Unsloth, Axolotl, etc. |
+| 3. | LLM Inference |
 
 **Setup with UV**
 
