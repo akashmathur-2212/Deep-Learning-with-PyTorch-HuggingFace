@@ -7,6 +7,7 @@ This repository contains tutorials for :
 | 1. | [👉🏻](https://github.com/akashmathur-2212/PyTorch/tree/main/transformers_from_scratch) Coding LLMs from scratch using PyTorch |
 | 2. | [👉🏻](https://github.com/akashmathur-2212/PyTorch/tree/main/llm-finetuning) Fine-tuning LLMs with Hugging Face, Unsloth, Axolotl, etc. |
 | 3. | [👉🏻](https://github.com/akashmathur-2212/Deep-Learning-with-PyTorch-HuggingFace/tree/main/synthetic-data-generation) Synthetic Data Generation using LLMs. |
+| 4. | [👉🏻](https://github.com/akashmathur-2212/Deep-Learning-with-PyTorch-HuggingFace/tree/main/llm-evaluation) LLM Evaluation. |
 | 4. | LLM Inference |
 
 **Setup with UV**
